@@ -1,6 +1,6 @@
 # West Africa security dashboard
 
-This is a Shiny dashboard showing the conflicts events in West Africa. 
+This is a Shiny dashboard showing the conflicts events in West Africa with a map showing the events by province for Burkina Faso.
 
 Conflict data come from ACLED (Armed Conflict Location & Event Data Project)
 
