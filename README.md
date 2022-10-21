@@ -1,4 +1,4 @@
-# Security_dashboard
+# West Africa security dashboard
 
 This is a Shiny dashboard showing the conflicts events from West Africa. 
 
