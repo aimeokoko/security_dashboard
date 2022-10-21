@@ -1,6 +1,6 @@
 # West Africa security dashboard
 
-This is a Shiny dashboard showing the conflicts events from West Africa. 
+This is a Shiny dashboard showing the conflicts events in West Africa. 
 
 Conflict data come from ACLED (Armed Conflict Location & Event Data Project)
 
